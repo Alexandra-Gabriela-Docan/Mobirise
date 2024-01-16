@@ -1050,7 +1050,10 @@ a {
 .cid-sFF0SGinka .mbr-section-title {
   color: #e85a4f;
 }
-
+.cid-sFF0SGinka .mbr-text,
+.cid-sFF0SGinka .mbr-section-btn {
+  color: #8e8d8a;
+}
 .cid-sFF0SGinka .mbr-section-title DIV {
   text-align: left;
 }
